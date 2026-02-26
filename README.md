@@ -131,8 +131,8 @@ PolybiusCipher.cpp / PolybiusCipher.h
 
 Через Git:
 
-git clone https://github.com/RandredAIV/2s-prog-rgr.git
-cd your-repository
+- git clone https://github.com/RandredAIV/2s-prog-rgr.git
+- cd 2s-prog-rgr
 
 Через ZIP:
 
@@ -222,7 +222,7 @@ The application supports:
 
 Navigate to project directory:
 
-cd path_to_project
+cd 2s-prog-rgr
 
 Compile using main.cpp as entry point:
 
