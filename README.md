@@ -131,7 +131,7 @@ PolybiusCipher.cpp / PolybiusCipher.h
 
 Через Git:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/RandredAIV/2s-prog-rgr.git
 cd your-repository
 
 Через ZIP:
