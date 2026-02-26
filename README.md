@@ -60,19 +60,19 @@
 
 Стандартные библиотеки:
 
-- <iostream>
-- <fstream>
-- <string>
-- <vector>
-- <map>
-- <sstream>
-- <stdexcept>
-- <algorithm>
-- <numeric>
-- <random>
+- iostream
+- fstream
+- string
+- vector
+- map
+- sstream
+- stdexcept
+- algorithm
+- numeric
+- random
 
 Системные библиотеки:
-- <Windows.h>
+- Windows.h
 
 Среда разработки:
 - Visual Studio Code
