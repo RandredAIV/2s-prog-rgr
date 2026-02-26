@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Cipher.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/PolybiusCipher.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/PolybiusCipher.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/decryptedCipher.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/decryptedPolybius.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/decryptedTable.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/decryptedTarabar.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/encryptedCipher.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/encryptedPolybius.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/encryptedTable.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/encryptedTarabar.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/message.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/password.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/password.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/table.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/tarabar.cpp" charset="windows-1251" />
+  </component>
+</project>
